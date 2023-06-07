@@ -44,4 +44,4 @@ loan dataset is used here
 
 
 ## Contact
-Created by [[@rgurum]([url](https://github.com/rgurum))] - feel free to contact me!
+Created by [@rgurum](https://github.com/rgurum) - feel free to contact me!
